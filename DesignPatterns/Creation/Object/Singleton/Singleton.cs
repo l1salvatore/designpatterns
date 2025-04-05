@@ -8,7 +8,7 @@ namespace DesignPatterns.Creation.Object.Singleton
 {
     public class Singleton
     {
-        static Singleton unique_instance;
+        static Singleton? unique_instance;
         public int Data { get; set; }
         private Singleton()
         {

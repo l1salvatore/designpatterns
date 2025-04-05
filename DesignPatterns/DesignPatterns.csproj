@@ -19,8 +19,6 @@
     <Folder Include="Behavior\Object\Strategy\" />
     <Folder Include="Behavior\Object\State\" />
     <Folder Include="Behavior\Object\Observer\" />
-    <Folder Include="Structural\Object\Composite\" />
-    <Folder Include="Structural\Object\Decorator\" />
     <Folder Include="Structural\Object\Facade\" />
     <Folder Include="Structural\Object\Flyweight\" />
     <Folder Include="Structural\Object\Proxy\" />

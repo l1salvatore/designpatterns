@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesignPatterns.Creation.Object.AbstractFactory
 {
-   public class ProductB2 : IAbstractProductB
+    public class ProductB2 : IAbstractProductB
     {
         public void OperationB()
         {

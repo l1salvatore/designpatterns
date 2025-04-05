@@ -12,9 +12,13 @@
 
 //DesignPatterns.Creation.Object.Singleton.Client client5 = new DesignPatterns.Creation.Object.Singleton.Client();
 
-//DesignPatterns.Structural.Class.Adapter.Client client5 = new DesignPatterns.Structural.Class.Adapter.Client();
+//DesignPatterns.Structural.Class.Adapter.Client client6 = new DesignPatterns.Structural.Class.Adapter.Client();
 
-DesignPatterns.Structural.Object.Bridge.Client client5 = new DesignPatterns.Structural.Object.Bridge.Client();
+//DesignPatterns.Structural.Object.Bridge.Client client7 = new DesignPatterns.Structural.Object.Bridge.Client();
 
-client5.Run();
+//DesignPatterns.Structural.Object.Composite.Client client8 = new DesignPatterns.Structural.Object.Composite.Client();
+
+DesignPatterns.Structural.Object.Decorator.Client client9 = new DesignPatterns.Structural.Object.Decorator.Client();
+
+client9.Run();
 ;
