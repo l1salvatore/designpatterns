@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Behavior\Class\Interpreter\" />
+    <Folder Include="Behavior\Class\Template Method\" />
+    <Folder Include="Behavior\Object\ChainOfResponsability\" />
+    <Folder Include="Behavior\Object\Command\" />
+    <Folder Include="Behavior\Object\Iterator\" />
+    <Folder Include="Behavior\Object\Mediator\" />
+    <Folder Include="Behavior\Object\Memento\" />
+    <Folder Include="Behavior\Object\Visitor\" />
+    <Folder Include="Behavior\Object\Strategy\" />
+    <Folder Include="Behavior\Object\State\" />
+    <Folder Include="Behavior\Object\Observer\" />
+    <Folder Include="Structural\Object\Composite\" />
+    <Folder Include="Structural\Object\Decorator\" />
+    <Folder Include="Structural\Object\Facade\" />
+    <Folder Include="Structural\Object\Flyweight\" />
+    <Folder Include="Structural\Object\Proxy\" />
+  </ItemGroup>
+
+</Project>

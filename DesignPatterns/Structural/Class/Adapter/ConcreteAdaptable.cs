@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DesignPatterns.Structural.Class.Adapter
+{
+    public class ConcreteAdaptable : IAdaptable
+    {
+        public void AnotherRequest()
+        {
+            Console.WriteLine("AnotherRequest from ConcreteAdaptable");
+        }
+    }
+}
