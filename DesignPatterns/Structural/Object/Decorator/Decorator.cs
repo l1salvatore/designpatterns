@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 
 namespace DesignPatterns.Structural.Object.Decorator
 {
+    /// <summary>
+    /// Decorator class that adds additional functionality to the component.
+    /// Decorator implements the same interface as the component.
+    /// Decorator contains a reference to the component and delegates calls to it.
+    /// </summary>
     public class Decorator : IComponent
     {
         private readonly IComponent _component;

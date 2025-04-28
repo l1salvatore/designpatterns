@@ -18,7 +18,8 @@
 
 //DesignPatterns.Structural.Object.Composite.Client client8 = new DesignPatterns.Structural.Object.Composite.Client();
 
-DesignPatterns.Structural.Object.Decorator.Client client9 = new DesignPatterns.Structural.Object.Decorator.Client();
+
+DesignPatterns.Structural.Object.Proxy.Client client9 = new DesignPatterns.Structural.Object.Proxy.Client();
 
 client9.Run();
 ;
