@@ -19,7 +19,8 @@
 //DesignPatterns.Structural.Object.Composite.Client client8 = new DesignPatterns.Structural.Object.Composite.Client();
 
 
-DesignPatterns.Structural.Object.Proxy.Client client9 = new DesignPatterns.Structural.Object.Proxy.Client();
+//DesignPatterns.Structural.Object.Proxy.Client client9 = new DesignPatterns.Structural.Object.Proxy.Client();
 
-client9.Run();
+DesignPatterns.Behavior.Object.ChainOfResponsability.Client client10 = new DesignPatterns.Behavior.Object.ChainOfResponsability.Client();
+client10.Run();
 ;
