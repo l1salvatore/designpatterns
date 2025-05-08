@@ -10,7 +10,6 @@
   <ItemGroup>
     <Folder Include="Behavior\Class\Interpreter\" />
     <Folder Include="Behavior\Class\Template Method\" />
-    <Folder Include="Behavior\Object\Command\" />
     <Folder Include="Behavior\Object\Iterator\" />
     <Folder Include="Behavior\Object\Mediator\" />
     <Folder Include="Behavior\Object\Memento\" />
