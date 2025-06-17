@@ -23,7 +23,9 @@
 
 //DesignPatterns.Behavior.Object.ChainOfResponsability.Client client10 = new DesignPatterns.Behavior.Object.ChainOfResponsability.Client();
 
-DesignPatterns.Behavior.Object.Command.Client client10 = new DesignPatterns.Behavior.Object.Command.Client();
+//DesignPatterns.Behavior.Object.Command.Client client10 = new DesignPatterns.Behavior.Object.Command.Client();
 
-client10.Run();
+DesignPatterns.Behavior.Object.Iterator.Client client11 = new DesignPatterns.Behavior.Object.Iterator.Client();
+
+client11.Run();
 ;
