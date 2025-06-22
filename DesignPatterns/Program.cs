@@ -25,7 +25,9 @@
 
 //DesignPatterns.Behavior.Object.Command.Client client10 = new DesignPatterns.Behavior.Object.Command.Client();
 
-DesignPatterns.Behavior.Object.Iterator.Client client11 = new DesignPatterns.Behavior.Object.Iterator.Client();
+//DesignPatterns.Behavior.Object.Iterator.Client client11 = new DesignPatterns.Behavior.Object.Iterator.Client();
+
+DesignPatterns.Behavior.Object.Mediator.Client client11 = new DesignPatterns.Behavior.Object.Mediator.Client();
 
 client11.Run();
 ;
