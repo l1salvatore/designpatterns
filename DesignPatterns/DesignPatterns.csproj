@@ -12,7 +12,6 @@
     <Folder Include="Behavior\Class\Template Method\" />
     <Folder Include="Behavior\Object\Visitor\" />
     <Folder Include="Behavior\Object\Strategy\" />
-    <Folder Include="Behavior\Object\State\" />
   </ItemGroup>
 
 </Project>

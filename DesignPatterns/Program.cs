@@ -31,7 +31,9 @@
 
 //DesignPatterns.Behavior.Object.Memento.Client client11 = new DesignPatterns.Behavior.Object.Memento.Client();
 
-DesignPatterns.Behavior.Object.Observer.Client client11 = new DesignPatterns.Behavior.Object.Observer.Client();
+//DesignPatterns.Behavior.Object.Observer.Client client11 = new DesignPatterns.Behavior.Object.Observer.Client();
+
+DesignPatterns.Behavior.Object.State.Client client11 = new DesignPatterns.Behavior.Object.State.Client();
 
 
 client11.Run();
