@@ -13,7 +13,6 @@
     <Folder Include="Behavior\Object\Visitor\" />
     <Folder Include="Behavior\Object\Strategy\" />
     <Folder Include="Behavior\Object\State\" />
-    <Folder Include="Behavior\Object\Observer\" />
   </ItemGroup>
 
 </Project>

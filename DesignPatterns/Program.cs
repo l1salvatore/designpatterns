@@ -29,7 +29,9 @@
 
 //DesignPatterns.Behavior.Object.Mediator.Client client11 = new DesignPatterns.Behavior.Object.Mediator.Client();
 
-DesignPatterns.Behavior.Object.Memento.Client client11 = new DesignPatterns.Behavior.Object.Memento.Client();
+//DesignPatterns.Behavior.Object.Memento.Client client11 = new DesignPatterns.Behavior.Object.Memento.Client();
+
+DesignPatterns.Behavior.Object.Observer.Client client11 = new DesignPatterns.Behavior.Object.Observer.Client();
 
 
 client11.Run();
