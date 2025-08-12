@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Behavior\Class\Interpreter\" />
-  </ItemGroup>
-
 </Project>
