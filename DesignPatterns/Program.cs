@@ -39,6 +39,9 @@
 
 //DesignPatterns.Behavior.Object.Visitor.Client client11 = new DesignPatterns.Behavior.Object.Visitor.Client();
 
-DesignPatterns.Behavior.Class.Template_Method.Client client11 = new DesignPatterns.Behavior.Class.Template_Method.Client();
+//DesignPatterns.Behavior.Class.Template_Method.Client client11 = new DesignPatterns.Behavior.Class.Template_Method.Client();
+
+DesignPatterns.Behavior.Class.Interpreter.Client client11 = new DesignPatterns.Behavior.Class.Interpreter.Client();
+
 client11.Run();
 ;

@@ -8,6 +8,7 @@ namespace DesignPatterns.Behavior.Class.Interpreter
 {
    public class Context
     {
+        public AbstractExpression actual { get; set; }
         /// <summary>
         /// The context holds the state of the interpreter.
         /// </summary>

@@ -15,7 +15,7 @@ namespace DesignPatterns.Behavior.Class.Interpreter
         /// Interpret method that must be implemented by concrete expressions.
         /// </summary>
         /// <param name="context">The context in which the expression is evaluated.</param>
-        public abstract void Interpret(Context context);
+        public abstract object Interpret(Context context);
     }
 
 }
